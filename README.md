@@ -20,3 +20,9 @@ Este texto está en __negrita__
    - Tercer submenú
    - Cuarto submenú
  
+ |Primera columna|Segunda columna|3 columna|
+ |---------------|:------------:|---------:|
+ |Col 2 es|Centrada|35 euros|
+ |Col 3 es |Derecha|134 euros|
+ |Estilo cebra|Gris|Blanco|
+ |Clase|ASIX1|M4|
