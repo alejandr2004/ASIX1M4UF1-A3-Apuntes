@@ -26,3 +26,9 @@ Este texto está en __negrita__
  |Col 3 es |Derecha|134 euros|
  |Estilo cebra|Gris|Blanco|
  |Clase|ASIX1|M4|
+
+ -[ ] Opcion A
+ 
+ -[X] Opcion B
+
+ -[ ] Opcion C
